@@ -1,0 +1,7 @@
+{
+  "name": "We3 Cakes Shop",
+  "description": "Premium cakes, custom designs, and fresh bakes with online pre-booking and store pickup in Four Road, Neyveli & Vadalur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
